@@ -1,6 +1,6 @@
 ---
 title: 'MVC2 패턴'
-date: 2021-2-21
+date: 2021-02-21
 category: 'TIL'
 draft: false
 ---

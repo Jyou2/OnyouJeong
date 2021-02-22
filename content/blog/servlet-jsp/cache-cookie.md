@@ -1,6 +1,6 @@
 ---
 title: 'Cache와 Cookie'
-date: 2021-1-24
+date: 2021-01-24
 category: 'servlet&jsp'
 draft: false
 ---
