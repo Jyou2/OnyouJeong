@@ -118,5 +118,5 @@ SELECT : 조회
 
 DataBase Management System  
 데이터베이스를 사용하기 위해서는 **데이터베이스 관리 시스템**이 필요하다.    
-대표적으로 Oracle, MYSQL, MS-SQL 등이 있다.   
+대표적으로 Oracle, MYSQL, MS-SQL등이 있다.   
 
